@@ -1,0 +1,176 @@
+{
+    "data": [
+  {
+    "resource": "players",
+    "id": 1,
+    "country_id": 52126,
+    "firstname": "Virat",
+    "lastname": "Kohli",
+    "fullname": "Virat Kohli",
+    "image_path": "https://w7.pngwing.com/pngs/400/994/png-transparent-virat-kohli-thumbnail.png",
+    "dateofbirth": "1988-11-05",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm medium",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+    "resource": "players",
+    "id": 2,
+    "country_id": 52126,
+    "firstname": "Rohit",
+    "lastname": "Sharma",
+    "fullname": "Rohit Sharma",
+    "image_path": "https://cricclubs.com/documentsRep/profilePics/4118d79b-bc0a-4a5b-aa2f-9a5b591dddf4.png",
+    "dateofbirth": "1987-04-30",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+    "resource": "players",
+    "id": 3,
+    "country_id": 52126,
+    "firstname": "Kane",
+    "lastname": "Williamson",
+    "fullname": "Kane Williamson",
+    "image_path": "https://www.gujarattitansipl.com/static-assets/images/players/4330.png?v=4.58",
+    "dateofbirth": "1990-08-08",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+    "resource": "players",
+    "id": 4,
+    "country_id": 52126,
+    "firstname": "Joe",
+    "lastname": "Root",
+    "fullname": "Joe Root",
+    "image_path": "https://wallpapers.com/images/hd/joe-root-portrait-31krp0eo0xyw2om5.jpg",
+    "dateofbirth": "1990-12-30",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+    "resource": "players",
+    "id": 5,
+    "country_id": 52126,
+    "firstname": "Steve",
+    "lastname": "Smith",
+    "fullname": "Steve Smith",
+    "image_path": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/284/271.png",
+    "dateofbirth": "1989-06-02",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "legbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+    "resource": "players",
+    "id": 6,
+    "country_id": 52126,
+    "firstname": "Babar",
+    "lastname": "Azam",
+    "fullname": "Babar Azam",
+    "image_path": "https://cricclubs.com/documentsRep/profilePics/0e4fbbe3-3b8b-424d-af27-01c0cc71bf7e.png",
+    "dateofbirth": "1994-10-15",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+    "resource": "players",
+    "id": 7,
+    "country_id": 52126,
+    "firstname": "David",
+    "lastname": "Warner",
+    "fullname": "David Warner",
+    "image_path": "https://www.sakshi.com/sites/default/files/special/icc/teams/2023/aus/david-warner.png",
+    "dateofbirth": "1986-10-27",
+    "gender": "m",
+    "battingstyle": "left-hand-bat",
+    "bowlingstyle": "legbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+    "resource": "players",
+    "id": 8,
+    "country_id": 52126,
+    "firstname": "Kumar",
+    "lastname": "Sangakkara",
+    "fullname": "Kumar Sangakkara",
+    "image_path": "https://a1png.com/wp-content/uploads/2021/01/kumar-sangakkara-7.png",
+    "dateofbirth": "1977-10-27",
+    "gender": "m",
+    "battingstyle": "left-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+  {
+  "resource": "players",
+  "id": 9,
+  "country_id": 52126,
+  "firstname": "AB",
+  "lastname": "de Villiers",
+  "fullname": "AB de Villiers",
+  "image_path": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316555.png",
+  "dateofbirth": "1984-02-17",
+  "gender": "m",
+  "battingstyle": "right-hand-bat",
+  "bowlingstyle": "right-arm medium",
+  "position": {
+    "resource": "positions",
+    "id": 1,
+    "name": "Batsman"
+  },
+  "updated_at": "2020-03-31T05:00:31.000000Z"
+}
+
+   ]
+}
