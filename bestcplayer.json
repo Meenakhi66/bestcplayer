@@ -76,25 +76,25 @@
     },
     "updated_at": "2020-03-31T05:00:31.000000Z"
   },
-  {
-    "resource": "players",
-    "id": 5,
-    "country_id": 52126,
-    "firstname": "Steve",
-    "lastname": "Smith",
-    "fullname": "Steve Smith",
-    "image_path": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/284/271.png",
-    "dateofbirth": "1989-06-02",
-    "gender": "m",
-    "battingstyle": "right-hand-bat",
-    "bowlingstyle": "legbreak",
-    "position": {
-      "resource": "positions",
-      "id": 1,
-      "name": "Batsman"
-    },
-    "updated_at": "2020-03-31T05:00:31.000000Z"
-  },
+   {
+            "resource": "players",
+            "id": 5,
+            "country_id": 52126,
+            "firstname": "Yasir",
+            "lastname": "Shah",
+            "fullname": "Yasir Shah",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/players/12/12.png",
+            "dateofbirth": "1986-05-02",
+            "gender": "m",
+            "battingstyle": "right-hand-bat",
+            "bowlingstyle": "legbreak-googly",
+            "position": {
+                "resource": "positions",
+                "id": 2,
+                "name": "Bowler"
+            },
+            "updated_at": "2020-04-09T05:17:13.000000Z"
+        },
   {
     "resource": "players",
     "id": 6,
@@ -114,25 +114,26 @@
     },
     "updated_at": "2020-03-31T05:00:31.000000Z"
   },
-  {
-    "resource": "players",
-    "id": 7,
-    "country_id": 52126,
-    "firstname": "David",
-    "lastname": "Warner",
-    "fullname": "David Warner",
-    "image_path": "https://www.sakshi.com/sites/default/files/special/icc/teams/2023/aus/david-warner.png",
-    "dateofbirth": "1986-10-27",
-    "gender": "m",
-    "battingstyle": "left-hand-bat",
-    "bowlingstyle": "legbreak",
-    "position": {
-      "resource": "positions",
-      "id": 1,
-      "name": "Batsman"
-    },
-    "updated_at": "2020-03-31T05:00:31.000000Z"
-  },
+  
+        {
+            "resource": "players",
+            "id": 7,
+            "country_id": 98,
+            "firstname": "Jon",
+            "lastname": "Holland",
+            "fullname": "Jon Holland",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/players/27/27.png",
+            "dateofbirth": "1987-05-29",
+            "gender": "m",
+            "battingstyle": "right-hand-bat",
+            "bowlingstyle": "slow-left-arm-orthodox",
+            "position": {
+                "resource": "positions",
+                "id": 2,
+                "name": "Bowler"
+            },
+            "updated_at": "2020-02-06T04:46:39.000000Z"
+        },
   {
     "resource": "players",
     "id": 8,
@@ -172,24 +173,24 @@
     "updated_at": "2020-03-31T05:00:31.000000Z"
   },     
   {
-  "resource": "players",
-  "id": 10,
-  "country_id": 52126,
-  "firstname": "AB",
-  "lastname": "de Villiers",
-  "fullname": "AB de Villiers",
-  "image_path": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316555.png",
-  "dateofbirth": "1984-02-17",
-  "gender": "m",
-  "battingstyle": "right-hand-bat",
-  "bowlingstyle": "right-arm medium",
-  "position": {
-    "resource": "positions",
-    "id": 1,
-    "name": "Batsman"
-  },
-  "updated_at": "2020-03-31T05:00:31.000000Z"
-}
+    "resource": "players",
+    "id": 10,
+    "country_id": 1,
+    "firstname": "Ben",
+    "lastname": "Stokes",
+    "fullname": "Ben Stokes",
+    "image_path": "https://media.crictracker.com/media/featureimage/2019/09/CT_345270.jpg",
+    "dateofbirth": "1991-06-04",
+    "gender": "m",
+    "battingstyle": "left-hand-bat",
+    "bowlingstyle": "right-arm-fast-medium",
+    "position": {
+      "resource": "positions",
+      "id": 3,
+      "name": "All-Rounder"
+    },
+    "updated_at": "2020-12-14T18:58:56.000000Z"
+  }
 
    ]
 }
